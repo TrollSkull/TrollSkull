@@ -19,3 +19,4 @@
 <a href="http://t.me/TrollSkull"> Telegram </a> <img src="/resources/telegram.jpg" width="22"/> -
 <a href="https://instagram.com/_.trsk._?igshid=qbsiszz6bv3l"> Instagram </a> <img src="/resources/instagram.jpg" width="22"/>
 
+_Follow me and give me a star, I would appreciate it a lot :D_
