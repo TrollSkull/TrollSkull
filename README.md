@@ -1,4 +1,4 @@
-### Hi, Leandro "<a href="https://github.com/TrollSkull">TrollSkull</a>" Miranda 🧷
+### Hi, I'm Leandro "<a href="https://github.com/TrollSkull">TrollSkull</a>" Miranda 🧷
 
 ![](https://github-readme-stats.vercel.app/api?username=TrollSkull&show_icons=true)
 
