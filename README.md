@@ -1,5 +1,7 @@
 ### Hi, I'm Lele - <a href="https://github.com/TrollSkull">TrollSkull</a> 🧷
 
+![](https://github-readme-stats.vercel.app/api?username=TrollSkull&show_icons=true)
+
 ## I am a student and a programmer for hobby :D!
 
 - I'm currenly learning everything 📚
