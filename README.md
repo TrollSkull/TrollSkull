@@ -1,8 +1,6 @@
 ### Hi, I'm Leandro "<a href="https://github.com/TrollSkull">TrollSkull</a>" Miranda 🧷
 
 ![](https://github-readme-stats.vercel.app/api?username=TrollSkull&show_icons=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TrollSkull&layout=compact)
    
 ## I am a student and a programmer for hobby :D!
 
