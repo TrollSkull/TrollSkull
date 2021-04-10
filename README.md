@@ -11,6 +11,7 @@
 
 ### Latest repositories 📁
 - <a href="https://github.com/TrollSkull/BashTube">BashTube</a>
+- <a href="https://github.com/TrollSkull/MicroText">MicroText</a>
 - <a href="https://github.com/TrollSkull/FileEditor">FileEditor</a>
 - <a href="https://github.com/TrollSkull/MorseTranslator">MorseTranslator</a>
 - <a href="https://github.com/TrollSkull/Multitask">Multitask</a>
