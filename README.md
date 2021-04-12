@@ -19,7 +19,7 @@
 ### Connect with me :}
 <a href="https://youtube.com/channel/UCOtwxmkZDF0wrrQ5JGnnOUA"> YouTube </a> <img src="/resources/youtube.jpg" width="22"/> -
 <a href="https://twitter.com/ImTrollSkull?s=09"> Twitter </a> <img src="/resources/twitter.jpg" width="22"/> -
-<a href="http://t.me/TrollSkull"> Telegram </a> <img src="/resources/telegram.jpg" width="22"/> -
+<a href="https://t.me/TrollSkull"> Telegram </a> <img src="/resources/telegram.jpg" width="22"/> -
 <a href="https://instagram.com/_.trsk._?igshid=qbsiszz6bv3l"> Instagram </a> <img src="/resources/instagram.jpg" width="22"/>
 
 _Follow me and give me a star, I would appreciate it a lot :D_
