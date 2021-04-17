@@ -18,6 +18,6 @@
 ### Connect with me :}
 <a href="https://youtube.com/channel/UCOtwxmkZDF0wrrQ5JGnnOUA"> YouTube </a> <img src="/resources/youtube.jpg" width="22"/> -
 <a href="https://twitter.com/ImTrollSkull?s=09"> Twitter </a> <img src="/resources/twitter.jpg" width="22"/> -
-<a href="https://t.me/TrollSkull"> Telegram </a> <img src="/resources/telegram.jpg" width="22"/> -
+<a href="https://t.me/TrollSkull"> Telegram </a> <img src="/resources/telegram.jpg" width="22"/>
 
 _Follow me and give me a star, I would appreciate it a lot :D_
