@@ -2,7 +2,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=TrollSkull&show_icons=true)
    
-## I am a student and a programmer for hobby :D!
+## I am a student and a programmer for hobby!
 
 - I'm currenly learning everything 📚
 - I'm looking to collaborate with other content creators 🔭
