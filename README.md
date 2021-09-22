@@ -1,7 +1,6 @@
 <div align="center">
 
-### Hi there, I'm  TrollSkull :)
-
+### Hi there, I'm  TrollSkull
 ![My stats](https://github-readme-stats.vercel.app/api?username=TrollSkull&count_private=true&show_icons=true&theme=dark)
 
 ![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TrollSkull&count_private=true&show_icons=true&theme=dark&layout=compact&card_width=445&langs_count=6)
