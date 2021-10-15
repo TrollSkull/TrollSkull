@@ -1,6 +1,5 @@
 <div align="center">
-
-### Hi there, I'm  TrollSkull
+  
 ![My stats](https://github-readme-stats.vercel.app/api?username=TrollSkull&count_private=true&show_icons=true&theme=dark)
   
 ### Connect with me :}
