@@ -1,10 +1,20 @@
+<h1 align="center">Hii, I'm TrollSkull :}</h1>
+<h3 align="center">A Python, Java and Rust programmer from Uruguay [🇺🇾] </h3>
+
+- I’m currently working on **MBMmanager**, an Open Source **Minecraft** mod manager with GUI and CLI using [Tkinter](https://docs.python.org/es/3/library/tkinter.html) and [Rich_](https://github.com/Textualize/rich). With a modern and easy to use UI. Written in Python 3 using Tkinter.
+
+  You can install and update mods from Modrinth through a GUI, manage multiple profiles, modpacks and many more!
+
+- I’m looking to collaborate on **Open source projects** :}
+
+<h3 align="center">Languages and Tools that I use:</h3>
+<p align="center"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> </p>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=trollskull&show_icons=true&locale=en&layout=compact&theme=dark" alt="trollskull" /></p>
+
+<h3 align="center">Connect with me:</h3>
 <div align="center">
   
-![My stats](https://github-readme-stats.vercel.app/api?username=TrollSkull&count_private=true&show_icons=true&theme=dark)
-  
-### Connect with me :}
-<a href="https://youtube.com/channel/UCOtwxmkZDF0wrrQ5JGnnOUA"> YouTube </a> <img src="/resources/youtube.jpg" width="22"/> -
-<a href="https://twitter.com/ImTrollSkull?s=09"> Twitter </a> <img src="/resources/twitter.jpg" width="22"/> -
-<a href="https://t.me/TrollSkull"> Telegram </a> <img src="/resources/telegram.jpg" width="22"/>
+  **[YouTube](https://www.youtube.com/@trollskull3668)** - **[Telegram](https://t.me/TrollSkull)**
   
 </div>
