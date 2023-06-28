@@ -3,7 +3,7 @@
 
 - I’m currently working on **[📦 MBMmanager]**, an Open Source **Minecraft** mod manager with GUI and CLI using [Tkinter](https://docs.python.org/es/3/library/tkinter.html) and [Rich_](https://github.com/Textualize/rich), coded in Python3.
 
-  You can install and update mods from Modrinth through a GUI, manage multiple profiles, modpacks, resourcepacks and many more!
+  You can install and update mods from Modrinth, manage multiple profiles, modpacks, resourcepacks and many more!
 
 - I’m looking to collaborate on **Open source projects** :}
 
