@@ -1,7 +1,7 @@
 <h1 align="Lleft">Hii, I'm TrollSkull :}</h1>
 <h3 align="left">A Python, Java and Rust programmer from Uruguay [🇺🇾] </h3>
 
-- I’m currently working on **MBMmanager**, an Open Source **Minecraft** mod manager with GUI and CLI using [Tkinter](https://docs.python.org/es/3/library/tkinter.html) and [Rich_](https://github.com/Textualize/rich). With a modern and easy to use UI. Coded in Python 3.
+- I’m currently working on **[📦 MBMmanager]**, an Open Source **Minecraft** mod manager with GUI and CLI using [Tkinter](https://docs.python.org/es/3/library/tkinter.html) and [Rich_](https://github.com/Textualize/rich), coded in Python3.
 
   You can install and update mods from Modrinth through a GUI, manage multiple profiles, modpacks, resourcepacks and many more!
 
