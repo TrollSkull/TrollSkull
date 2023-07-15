@@ -1,5 +1,5 @@
 <h1 align="Lleft">Hii, I'm TrollSkull :}</h1>
-<h3 align="left">A Python, Java and Rust programmer from Uruguay [🇺🇾] </h3>
+<h3 align="left">A Python, Java, Kotlin and Rust programmer from Uruguay [🇺🇾] </h3>
 
 - I’m currently working on **[LazyManager](https://github.com/TrollSkull/LazyManager)**, an Open Source **Minecraft** mod manager with GUI and CLI using [Tkinter](https://docs.python.org/es/3/library/tkinter.html) and [Rich_](https://github.com/Textualize/rich), coded in Python3.
 
