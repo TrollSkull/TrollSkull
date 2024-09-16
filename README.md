@@ -5,6 +5,8 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=trollskull&show_icons=true&locale=en&layout=compact&theme=dark" alt="trollskull" /></p>
 
+<!---
 <a align="center" href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=TrollSkull&label=Profile%20Views&color=12&icon=5&pretty=true" />
 </a>
+--->
