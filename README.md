@@ -20,7 +20,7 @@
 <div style="display: flex; align-items: center; justify-content: flex-start;">
   <div style="margin-right: 10px;">
     <ul style="list-style-type: none; padding: 0; margin: 0;">
-      <li style="margin-bottom: 10px;"><strong>I am a Python Developer from <a href="[https://www.youtube.com/watch?v=g4dUHEkAL4M&ab_channel=TurismoAsturias](https://www.youtube.com/watch?v=BWO0JGt0tAQ)" target="_blank">Montevideo, Uruguay</a></strong></li>
+      <li style="margin-bottom: 10px;"><strong>I am a Python Developer from <a href="https://www.youtube.com/watch?v=BWO0JGt0tAQ" target="_blank">Montevideo, Uruguay</a></strong></li>
       <li style="margin-bottom: 10px;"><strong>Techstack:</strong> <code>.py</code> <code>.rs</code> <code>.java</code> <code>.html</code> <code>.css</code></li>
     </ul>
   </div>
