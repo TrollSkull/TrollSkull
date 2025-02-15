@@ -1,4 +1,4 @@
-<img align="center" src="assets/banner.jpg" />
+<img align="center" src="assets/banner.png" />
 
 <h1 align="left"> Hello! I'm "TrollSkull".</h1>
 
