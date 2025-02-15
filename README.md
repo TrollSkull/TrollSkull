@@ -1,4 +1,4 @@
-<img src="assets/banner.svg" />
+<img align="center" src="assets/banner.jpg" />
 
 <h1 align="left"> Hello! I'm "TrollSkull".</h1>
 
