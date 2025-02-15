@@ -1,3 +1,5 @@
+<img src="assets/banner.svg" />
+
 <h1 align="left"> Hello! I'm "TrollSkull".</h1>
 
 <h3 align="center">Languages and Tools that I use:</h3>
