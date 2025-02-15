@@ -4,7 +4,10 @@
 <div style="display: flex; align-items: center; justify-content: flex-start;">
   <div>
     <h1>Hello! I'm "TrollSkull".</h1>
+  <!--- Spotify Card --->
+  <div style="padding-left: 20px;">
     <img align="right" style="height: 120px; width: auto;" src="https://spotify-recently-played-readme.vercel.app/api?user=6893asg7e3odphxjvknfhgo0f&count=3" alt="Spotify Recently Played" />
+  </div>
     <a href="https://trollskull.io">
       <img src="https://img.shields.io/badge/-trollskull.io-0a66c2?style=social&logo=Google-Chrome&logoColor=blue&link=https://trollskull.io" alt="Website Badge">
     </a>
