@@ -20,7 +20,7 @@
 <div align="left">
   <h2>GitHub Stats:</h2>
   <div style="margin-bottom: 30px; display: flex; flex-direction: column; align-items: center; gap: 20px;">
-    <img style="height: 150px; margin-right: 20px;" src="https://github-readme-stats.vercel.app/api?username=TrollSkull&show_icons=true&theme=transparent" alt="Stats Overview" />
-    <img style="height: 150px; margin-right: 20px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrollSkull&layout=compact&theme=transparent" alt="Most Used Languages" />
+    <img style="height: 150px; margin-right: 20px;" src="https://github-readme-stats-fast.vercel.app/api?username=TrollSkull&show_icons=true&theme=github_dark" alt="Stats Overview" />
+    <img style="height: 150px; margin-right: 20px;" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TrollSkull&layout=compact&theme=github_dark" alt="Most Used Languages" />
   </div>
 </div>
