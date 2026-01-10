@@ -3,8 +3,9 @@
 <h1 align="left">Hi, I'm TrollSkull 👋</h1>
 
 <p align="left">
-  🐍 Python developer from <a href="https://www.youtube.com/watch?v=BWO0JGt0tAQ" target="_blank">Uruguay</a>.
+  Python developer from <a href="https://www.youtube.com/watch?v=BWO0JGt0tAQ" target="_blank">Uruguay</a>.
 </p>
+<img src="assets/me.gif">
 
 ## 🧠 About me
 
