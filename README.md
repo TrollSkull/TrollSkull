@@ -1,26 +1,58 @@
 <!--- GitHub Banner --->
 
-<div style="display: flex; align-items: center; justify-content: flex-start;">
-  <div>
-    <h1>Hello! I'm "TrollSkull".</h1>
-  </div>
-</div>
+<h1 align="left">Hi, I'm TrollSkull 👋</h1>
 
-<!--- Content List --->
-<div style="display: flex; align-items: center; justify-content: flex-start;">
-  <div style="margin-right: 10px;">
-    <ul style="list-style-type: none; padding: 0; margin: 0;">
-      <li style="margin-bottom: 10px;"><strong>I am a Python Developer from <a href="https://www.youtube.com/watch?v=BWO0JGt0tAQ" target="_blank">Uruguay</a></strong></li>
-      <li style="margin-bottom: 10px;"><strong>Techstack:</strong>, <code>.py</code>, <code>.rs</code>, <code>.java</code>, <code>.html</code>, <code>.css</code>, <code>.shell</code></li>
-    </ul>
-  </div>
-</div>
+<p align="left">
+  🐍 Python developer from <a href="https://www.youtube.com/watch?v=BWO0JGt0tAQ" target="_blank">Uruguay</a>.
+</p>
 
-<!--- GitHub Stats --->
-<div align="left">
-  <h2>GitHub Stats:</h2>
-  <div style="margin-bottom: 30px; display: flex; flex-direction: column; align-items: center; gap: 20px;">
-    <img style="height: 150px; margin-right: 20px;" src="https://github-readme-stats-fast.vercel.app/api?username=TrollSkull&show_icons=true&theme=github_dark" alt="Stats Overview" />
-    <img style="height: 150px; margin-right: 20px;" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TrollSkull&layout=compact&theme=github_dark" alt="Most Used Languages" />
-  </div>
-</div>
+## 🧠 About me
+
+I build **practical software**, mostly with Python.  
+My main interest is turning ideas into tools that actually work: desktop applications, automation scripts, and small systems that solve concrete problems.
+
+I’m not focused on hype or trends — I prefer understanding how things work **under the hood**.
+## 🛠️ Tech stack & tools
+
+### 💻 Languages
+- 🐍 **Python** (main language)
+- 🦀 **Rust** (learning & performance-oriented experiments)
+- ☕ **Java** (general purpose / academic use)
+
+### 🎨 Frontend & UI
+- HTML / CSS (or QSS)
+- Desktop GUIs with `PySide6` and `customtkinter`
+
+### ⚙️ Other
+- Shell scripting  
+- Git & GitHub  
+- API consumption and automation
+  
+## 🚧 Currently
+
+Projects I am actively working on and improving.
+
+### 🎵 SwiftTube
+A desktop application focused on downloading, managing, and organizing YouTube videos in multiple formats. 
+
+🔗 Repository: https://github.com/TrollSkull/SwiftTube (private for now)
+
+---
+
+### 🔐 ZipCracker
+A Python and Rust-based tool for ZIP password recovery and advanced file handling.
+
+🔗 Repository: https://github.com/TrollSkull/ZipCracker
+
+---
+
+### 🧪 Other tools
+Small Python utilities and desktop tools created for automation, experimentation, and personal productivity.
+
+
+## 📊 GitHub stats
+
+<p align="left">
+  <img height="150" src="https://github-readme-stats-fast.vercel.app/api?username=TrollSkull&show_icons=true&theme=github_dark" />
+  <img height="150" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TrollSkull&layout=compact&theme=github_dark" />
+</p>
