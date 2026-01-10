@@ -38,14 +38,10 @@ A desktop application focused on downloading, managing, and organizing YouTube v
 
 🔗 Repository: https://github.com/TrollSkull/SwiftTube (private for now)
 
----
-
 ### 🔐 ZipCracker
 A Python and Rust-based tool for ZIP password recovery and advanced file handling.
 
 🔗 Repository: https://github.com/TrollSkull/ZipCracker
-
----
 
 ### 🧪 Other tools
 Small Python utilities and desktop tools created for automation, experimentation, and personal productivity.
