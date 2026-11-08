@@ -1,1 +1,1 @@
-<img src="assets/clouds.jpg" alt="clouds_banner" class="full-width-img" width="100%">
+<img src="assets/pattern.webp" alt="banner" class="full-width-img" width="100%">
